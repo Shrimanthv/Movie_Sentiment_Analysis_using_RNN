@@ -20,7 +20,7 @@
 [🚀 **Live App** – Click here to test the model! Curious what it thinks? Enter your review to see its sentiment prediction.](https://moviesentimentanalysisusingrnn-ekfjnig9vjna7xforappdyn.streamlit.app/)
 
 
-📷 **Screenshots**: _Add screenshots of the UI here_
+![📷 **Screenshots**: Screenshots of the UI here_](https://github.com/Shrimanthv/Movie_Sentiment_Analysis_using_RNN/blob/main/Screenshot%202025-06-18%20140250.png?raw=true)
 
 ---
 
@@ -94,6 +94,8 @@ streamlit run app.py
 6. Click Deploy.
 
 ### Project Structure
+``` bash
+Movie_Sentiment_Analysis_using_RNN/
 │
 ├── app.py                  # Main Streamlit application
 ├── model.h5                # Trained RNN model
@@ -105,6 +107,7 @@ streamlit run app.py
 │   └── imdb_reviews.csv
 └── notebooks/              # Jupyter notebooks for EDA & model training
     └── model_training.ipynb
+```
 
 ## Bug / Feature Request
 If you encounter any bugs or have suggestions for new features, please feel free to open an issue on the GitHub repository.
